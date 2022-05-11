@@ -1,12 +1,13 @@
 ### Hi there 👋, This is Santiago, Welcome to my little space 💻😃
 
-I'm Santiago, a Java developer with over five year working with for diferents kind of companies such as banking and education 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif" width="300" height="150"/>
-</div>
-:hammer_and_wrench: Languages and Tools
-<div>
+I'm a Java developer with over five years of working in different kinds of companies such as banking and education.
+<div >
+  
+ 
+## :hammer_and_wrench: Languages and Tools
+  </div> 
+  <div>
+  <img align="right" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="300" height="300"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij"  width="40" height="40"/>&nbsp;
@@ -18,18 +19,7 @@ I'm Santiago, a Java developer with over five year working with for diferents ki
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div>
-  
-<!--
-**santialpo/santialpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Get in touch  
+If you wish to know about me <a href="https://co.linkedin.com/in/santialpo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
